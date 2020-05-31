@@ -1,0 +1,11 @@
+.center {
+    text-align: center;
+}
+.discography td {
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.discography {
+    margin-left: auto;
+    margin-right: auto;
+}
